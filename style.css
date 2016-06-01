@@ -114,3 +114,11 @@ a:hover {
 
 	font-family: 'Oswald', sans-serif;
 }
+
+.underConstruction {
+	text-align: center;
+	background: #494949;
+	color: white;
+	border-width: 3px;
+	border-color: black;
+}
